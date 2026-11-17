@@ -9,7 +9,7 @@ I am an MSc student in Quantitative Finance at the University of Turin. My acade
 | Degree | University of Turin |
 | --- | --- |
 | MSc in Quantitative Finance | 2025–present · Weighted average 27.5/30 · Expected graduation November 2027 |
-| BSc in Mathematics for Finance and Insurance | 2022–2025 · Final grade 99/110 |
+| BSc in Mathematics for Finance and Insurance | 2022–2025 |
 
 ## Research & Projects
 
